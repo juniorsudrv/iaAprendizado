@@ -135,6 +135,7 @@ public class PranchaTreino extends javax.swing.JFrame {
     static int NAO = 2;
 
     public PranchaTreino() {
+        super("IA - Aprendizado ");
         initComponents();
         setVisible(true);
 
